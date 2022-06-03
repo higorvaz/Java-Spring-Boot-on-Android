@@ -25,3 +25,11 @@ Use start.spring.io to create a “web” project. In the “Dependencies” dia
 Locate the downloaded demo.zip file path.
 
 ![](https://lh6.googleusercontent.com/4zJ-qMJSOU10VnGEZ7XnbQUVIsoKPl6OgXkNYf9KjPKusC4m67QI_0eBDHR7q1dClTipWogcKW-Jd0hYkEQf1qVjdAO0Xj9g3RtlRSpEMA5EAWMRni_K2cQdckcqrI-chKOTX5mvEUxkDBOJoA)
+
+Copy it to the home Termux folder
+
+  
+cd && cp /storage/emulated/0/Download/demo.zip demo.zi`  
+ 
+
+g
