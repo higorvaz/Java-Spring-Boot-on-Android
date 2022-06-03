@@ -51,8 +51,7 @@ java -version
 If no, update your system and install it
 
 ```shell
-apt update -y && apt upgrade -y && 
-apt install openjdk-17-jdk
+apt update -y && apt upgrade -y && apt install openjdk-17-jdk
 ```
 
 a
