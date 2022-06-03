@@ -37,3 +37,9 @@ Unzip it and go to the demo unzipped folder
 ```shell
 unzip demo.zip && cd demo
 ```
+
+#### **Step 2: Check system requirements:**
+
+  
+Verify if you have Java installed on your system  
+java -version
