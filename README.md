@@ -31,3 +31,9 @@ Copy it to the home Termux folder
 ```shell
 cd && cp /storage/emulated/0/Download/demo.zip demo.zip
 ```
+
+Unzip it and go to the demo unzipped folder
+
+```shell
+unzip demo.zip && cd demo
+```
