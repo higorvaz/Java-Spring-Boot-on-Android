@@ -21,3 +21,5 @@ You will build a classic “Hello World!” endpoint which any browser can conne
 Use start.spring.io to create a “web” project. In the “Dependencies” dialog search for and add the “web” dependency as shown in the screenshot. Hit the “Generate” button, download the zip.
 
 ![](https://lh4.googleusercontent.com/Q9Ay-uYOIMHDmAzehb36hnB_6FyPUG_l21SdjRwcztt91EFatIsTqMH_zT-72z9Mf-F52V8ndwsQnZSE93Ch02aO-qJ75e2_PGdtCjLLwXR3cWMdRzqNzgxvaGsEJdfDFYCcKgJ8slaNh2Ayiw)
+
+Locate the downloaded demo.zip file path.
