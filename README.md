@@ -28,8 +28,6 @@ Locate the downloaded demo.zip file path.
 
 Copy it to the home Termux folder
 
-  
+```shell
 cd && cp /storage/emulated/0/Download/demo.zip demo.zip
- 
-
-g
+```
