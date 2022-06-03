@@ -23,3 +23,5 @@ Use start.spring.io to create a “web” project. In the “Dependencies” dia
 ![](https://lh4.googleusercontent.com/Q9Ay-uYOIMHDmAzehb36hnB_6FyPUG_l21SdjRwcztt91EFatIsTqMH_zT-72z9Mf-F52V8ndwsQnZSE93Ch02aO-qJ75e2_PGdtCjLLwXR3cWMdRzqNzgxvaGsEJdfDFYCcKgJ8slaNh2Ayiw)
 
 Locate the downloaded demo.zip file path.
+
+![](https://lh6.googleusercontent.com/4zJ-qMJSOU10VnGEZ7XnbQUVIsoKPl6OgXkNYf9KjPKusC4m67QI_0eBDHR7q1dClTipWogcKW-Jd0hYkEQf1qVjdAO0Xj9g3RtlRSpEMA5EAWMRni_K2cQdckcqrI-chKOTX5mvEUxkDBOJoA)
