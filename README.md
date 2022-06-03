@@ -48,3 +48,11 @@ java -version
 
 ![](https://lh6.googleusercontent.com/AE5gsvuD2N6_XHQT43U92-0WW5GfRnVTmltHXdRCpdCjtETbE9uDZI02LhHB_E3sggrgD3WCzL0xwm_WumBQ3AKdgPwH1p0H7U5qL6gppTnkDmP4FYEMlCaReBuMiyIsfavAHKqvZfwzN9bHGA)
 
+If no, update your system and install it
+
+```shell
+apt update -y && apt upgrade -y && 
+apt install openjdk-17-jdk
+```
+
+a
