@@ -131,4 +131,10 @@ You should get a nice friendly response like this:
 What is displayed if you add `?name=HigorVaz` to the end of the URL?
 
 ![](https://lh3.googleusercontent.com/ctydNfBh6C1eUXocn_WYgQ1s6coPdFmeZ525E3g5hoZGElp6eXG4iWxMv3Gs58Gz9ck9izixLnSlLNtP846TKUSrsByVUVIXFYfv0AsrWzJFvGs2X_0B8WsjTxcn-hCGeFy-IbCv0SbZnIdjNQ)  
-a
+ 
+
+### This guide was made taking the official Spring Boot documentation:
+
+https://spring.io/quickstart
+
+.
