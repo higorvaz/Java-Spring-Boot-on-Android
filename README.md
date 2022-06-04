@@ -94,6 +94,15 @@ public class DemoApplication {
 }
 ```
 
+Save
+```shell
+CTRL + o
+```
+Exit
+```shell
+CTRL + x
+```
 ![](https://lh5.googleusercontent.com/LQycOtazvuEDeBnzZcrILjPEWJy-t6YK51oP_GbGcTS8LhTHBx__mj-VvPbE9ACO9RHoXSPWFVl4wnaRcMGLq4Pqi9sdC0UkNXyYwww8UXNeJjHvtiexOKhqT2xPOSujQpm2Ynd-zx37WXxKVg)
+
 
 a
