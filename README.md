@@ -128,5 +128,7 @@ You should get a nice friendly response like this:
 
 #### **Charade ¯\\\_(ツ)\_/¯  :**
 
-What is displayed if you add `?name=HigorVaz` to the end of the URL?  
+What is displayed if you add `?name=HigorVaz` to the end of the URL?
+
+![](https://lh3.googleusercontent.com/ctydNfBh6C1eUXocn_WYgQ1s6coPdFmeZ525E3g5hoZGElp6eXG4iWxMv3Gs58Gz9ck9izixLnSlLNtP846TKUSrsByVUVIXFYfv0AsrWzJFvGs2X_0B8WsjTxcn-hCGeFy-IbCv0SbZnIdjNQ)  
 a
