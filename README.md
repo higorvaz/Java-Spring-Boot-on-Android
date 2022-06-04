@@ -68,6 +68,4 @@ Now create and edit a new DemoApplication.java
 nano -l -A -S -m src/main/java/com/example/demo/DemoApplication.java
 ```
 
-a
-
 ![](https://lh3.googleusercontent.com/HM33zZbOPb6pp0gVZgDDJqYip6MT31c5lZJyxGfL6HOChTNV_49TQl9FKnx0AOzCGvfyToNQz72olfnUrJW8denIUCTffks9rteICVMLhY3XAVvm3X6EBqi4LYfbpJ3prDOcyYbwW0AkftT-0A)
