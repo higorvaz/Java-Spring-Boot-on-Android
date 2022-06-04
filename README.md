@@ -122,5 +122,7 @@ It will take some seconds to compile and show the results like this:
 
 Open your browser and in the address bar at the top enter http://localhost:8080/hello .
 
-You should get a nice friendly response like this:  
+You should get a nice friendly response like this:
+
+![](https://lh4.googleusercontent.com/sTLQ9eElG22rnBIz8fPOhS2Z-wfyVJa6a4jHQLRLiDsCGz-hwcMZITZWxmKLJBTdOrC-6943lNRV-MEyZGtrV92f6U-b9oLaWk_CBu0CLG67xJZhUMjjUWI2qaX1ci960WRRRC8dxU4bX_okjQ)  
 a
