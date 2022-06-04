@@ -55,13 +55,19 @@ apt update -y && apt upgrade -y && apt install openjdk-17-jdk
 ```
 
 #### **Step 3: Add your code**
+
 Remove the original file DemoApplication.java located at src/main/java/com/example/demo folder.
+
 ```shell
 rm src/main/java/com/example/demo/DemoApplication.java
 ```
+
 Now create and edit a new DemoApplication.java
+
 ```shell
 nano -l -A -S -m src/main/java/com/example/demo/DemoApplication.java
 ```
 
 a
+
+![](https://lh3.googleusercontent.com/HM33zZbOPb6pp0gVZgDDJqYip6MT31c5lZJyxGfL6HOChTNV_49TQl9FKnx0AOzCGvfyToNQz72olfnUrJW8denIUCTffks9rteICVMLhY3XAVvm3X6EBqi4LYfbpJ3prDOcyYbwW0AkftT-0A)
