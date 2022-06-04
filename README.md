@@ -120,4 +120,6 @@ It will take some seconds to compile and show the results like this:
 
 ![](https://lh5.googleusercontent.com/iyPTdQXY7sX9cpbUskj3DSFO6aaaB0YWuRPdebTI3crg4vycuT0zBUZKDDmy8nm1j0wLdepNd-xgFff3heDL10l1ZEnrEhAM-O54_Lc2tkSXgYgug-BRfk87hlHFGPP8kDf-lAgXHIztSrkt6A)
 
+Open your browser and in the address bar at the top enter http://localhost:8080/hello . 
+You should get a nice friendly response like this:
 a
