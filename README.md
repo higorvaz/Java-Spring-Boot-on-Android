@@ -128,5 +128,5 @@ You should get a nice friendly response like this:
 
 #### **Charade ¯\\\_(ツ)\_/¯  :**
 
-What is displayed if you add "?name=HigorVaz" to the end of the URL?  
+What is displayed if you add `?name=HigorVaz` to the end of the URL?  
 a
