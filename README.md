@@ -54,4 +54,9 @@ If no, update your system and install it
 apt update -y && apt upgrade -y && apt install openjdk-17-jdk
 ```
 
+#### **Step 3: Add your code**
+Remove the original file DemoApplication.java located at src/main/java/com/example/demo folder.
+```shell
+rm src/main/java/com/example/demo/DemoApplication.java
+```
 a
