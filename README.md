@@ -71,31 +71,29 @@ nano -l -A -S -m src/main/java/com/example/demo/DemoApplication.java
 ![](https://lh3.googleusercontent.com/HM33zZbOPb6pp0gVZgDDJqYip6MT31c5lZJyxGfL6HOChTNV_49TQl9FKnx0AOzCGvfyToNQz72olfnUrJW8denIUCTffks9rteICVMLhY3XAVvm3X6EBqi4LYfbpJ3prDOcyYbwW0AkftT-0A)
 
 ```java
+package com.example.demo;
 
-              package com.example.demo;
-              import org.springframework.boot.SpringApplication;
-              import org.springframework.boot.autoconfigure.SpringBootApplication;
-              import org.springframework.web.bind.annotation.GetMapping;
-              import org.springframework.web.bind.annotation.RequestParam;
-              import org.springframework.web.bind.annotation.RestController;
-              
-              @SpringBootApplication
-              @RestController
-              public class DemoApplication {
-                
-                  
-                  public static void main(String[] args) {
-                  SpringApplication.run(DemoApplication.class, args);
-                  }
-                  
-                  @GetMapping("/hello")
-                  public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
-                  return String.format("Hello %s!", name);
-                  }
-                
-              }
-            
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@SpringBootApplication
+@RestController
+public class DemoApplication {
+
+public static void main(String[] args) {
+SpringApplication.run(DemoApplication.class, args);
+}
+
+@GetMapping("/hello")
+public String hello(@RequestParam(value = "name", defaultValue = "World") String name) {
+return String.format("Hello %s!", name);
+}
+}
 ```
+
 a
 
 a
